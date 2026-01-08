@@ -4,6 +4,8 @@
 
 Preview: Watch the VR Rig Simulator Demo on YouTube — https://youtu.be/TuVJvSobA5c
 
+<iframe width="1373" height="772" src="https://www.youtube.com/embed/TuVJvSobA5c" title="ScientifiLabDemo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Project: Scientific Lab - VR Rig Simulator Demo
 - Description: Demonstrates a VR rig simulator setup and basic interactions in Unity.
 - Requirements: Unity 2020.3+ (LTS) or newer; XR Interaction Toolkit; target VR headset runtime.
