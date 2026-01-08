@@ -1,9 +1,8 @@
 ## Scientific Lab
 
-[![Scientific Lab Demo Preview](https://img.youtube.com/vi/TuVJvSobA5c/0.jpg)](https://youtu.be/TuVJvSobA5c)
+<video src="https://github.com/user-attachments/assets/be5620bb-b33d-4ffb-981a-712d003567d7
+" controls></video>
 
-<video src="https://github.com/user-attachments/assets/193a90d4-7d22-46a9-ab00-cddd2f0891dd
-" controls width="600"></video>
 
 Preview: Watch the VR Rig Simulator Demo on YouTube — https://youtu.be/TuVJvSobA5c
 
